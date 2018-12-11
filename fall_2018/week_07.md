@@ -8,10 +8,16 @@ databases as I would like. This semester I looked up the course outline for Data
 to give me some guidance as to what I needed to learn to make a contribution to our project and 
 read chapters 1-3 to get a better understanding of how databases work. I definitely learned a lot this 
 semester about databases and there importance in platform development. I also looked at an online tutorial 
-for postgres. Next semester I intend take Database Systems to further my understanding of databases. 
+for postgres. Next semester I intend take Database Systems to further my understanding of databases. I also
+had a bit of a mix up with my status updates and forgot to push them to my git hub. I'm pretty new to git
+but I also took a tutorial on git earlier in the semester which I forgot to mention in my status updates. I 
+guess I should go retake it because I am still messing up every now and then. 
 
-Here is the link to one of the tutorials I took:
+Here is the link to one of the tutorials I took on postgress:
 http://www.postgresqltutorial.com 
+
+Here is the link to the tutorial on git:
+https://git-scm.com/docs/gittutorial
 
 > Examples:
 > Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
