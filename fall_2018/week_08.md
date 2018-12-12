@@ -16,6 +16,11 @@ http://pythontesting.net/framework/pytest/pytest-introduction/
 
 > In this section, you can write about what you have planned for next week.
 
+This is the last week of RCOS so I don't have a lot planned. I learned a lot this semester and 
+deepened my understanding of platform development although I still have a lot to learn. I plan 
+on learning more about google firebase and AWS in order to improve myself as a developer. I also 
+am registered for Data base systems next semester to further my understanding of databases and I 
+intend on learning more about full stack development over break. 
 
 
 > Examples: New Bugs to be fixed, Design choices
