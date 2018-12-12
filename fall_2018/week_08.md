@@ -2,6 +2,11 @@
 
 > In this section, you can write about what you accomplished in the previous week.
 
+This week I continued leanring about pytest. Below are a few links to the tutorials that I have 
+used to learn about unit testing:
+
+https://docs.pytest.org/en/latest/index.html
+http://pythontesting.net/framework/pytest/pytest-introduction/
 
 
 > Examples:

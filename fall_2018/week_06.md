@@ -28,8 +28,6 @@ So far the examples all seem to be just using assert statements to make sure the
 of functions match the expected values. 
 
 
-
-
 > Examples: New Bugs to be fixed, Design choices
 
 ## Anything Blocking?
